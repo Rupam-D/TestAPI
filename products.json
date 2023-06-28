@@ -1,0 +1,87 @@
+[
+     {
+          "name": "macbook 14",
+          "price": 95000,
+          "features": true,
+          "rating": 4.7,
+          "company": "apple"
+     },
+     {
+          "name": "macbook 16 m2",
+          "price": 195000,
+          "features": true,
+          "rating": 4.7,
+          "company": "apple"
+     },
+     {
+          "name": "iphone X pro m1",
+          "price": 90000,
+          "company": "apple"
+     },
+     {
+          "name": "vivo U20",
+          "price": 12000,
+          "company": "vivo"
+     },
+     {
+          "name": "POCO M3",
+          "price": 17000,
+          "company": "mi"
+     },
+     {
+          "name": "galaxy S13 edge",
+          "price": 117000,
+          "features": true,
+          "company": "samsung"
+     },
+     {
+          "name": "Bravia",
+          "price": 15000,
+          "company": "sony"
+     },
+     {
+          "name": "Oppo A18",
+          "price": 17000,
+          "company": "oppo"
+     },
+     {
+          "name": "Oneplus Nord",
+          "price": 27000,
+          "features": true,
+          "company": "oneplus"
+     },
+     {
+          "name": "macbook 13",
+          "price": 90000,
+          "rating": 4.9,
+          "company": "apple"
+     },
+     {
+          "name": "ipad mini",
+          "price": 195000,
+          "features": true,
+          "rating": 4.7,
+          "company": "apple"
+     },
+     {
+          "name": "macbook air",
+          "price": 185000,
+          "features": true,
+          "rating": 4.9,
+          "company": "apple"
+     },
+     {
+          "name": "apple TV 13",
+          "price": 185000,
+          "features": true,
+          "rating": 4.9,
+          "company": "apple"
+     },
+     {
+          "name": "ipad mini",
+          "price": 155000,
+          "features": true,
+          "rating": 4.9,
+          "company": "apple"
+     }
+]
